@@ -9,58 +9,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        body {
-            background-color: #f8f5f0;
-            color: #2d2d2d;
-        }
-        /* Mobile-First Header */
-        .header {
-            background-color: #1a3d6f;
-            color: white;
-            padding: 1.5rem 1rem;
-            text-align: center;
-        }
-        .header small {
-            display: block;
-            margin-top: 0.5rem;
-            font-size: 0.8rem;
-            opacity: 0.8;
-        }
-        /* Mobile Navigation */
-        .nav {
-            background-color: #2d5b99;
-            padding: 1rem;
-            overflow-x: auto;
-        }
-        .nav-list {
-            display: flex;
-            gap: 1.2rem;
-            list-style: none;
-        }
-        .nav-link {
-            color: white;
-            text-decoration: none;
-            font-weight: 500;
-            white-space: nowrap;
-        }
-        .nav-link.active {
-            border-bottom: 2px solid #ffd166;
-        }
-        /* Side Dish Cards */
-        .menu-section {
-            padding: 1.5rem 1rem;
-        }
-        .section-title {
-            color: #1a3d6f;
-            margin-bottom: 1rem;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        .chef-badge {
-            background-color: #ffd166;
+            font-family            background-color: #ffd166;
             color: #1a3d6f;
             font-size: 0.7rem;
             padding: 0.2rem 0.5rem;
@@ -234,7 +183,4 @@
     <footer class="footer">
         <p>Harbor View Ormoc | Ormoc City, Leyte</p>
         <p>Dining Hours: 6AM - 10PM Daily</p>
-        <p>Special Dietary Requests? Ask Our Server!</p>
-    </footer>
-</body>
-</html>
+        <p>Special Dietary Requ
